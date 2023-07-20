@@ -8,4 +8,4 @@ https://dictionaryapi.dev/
 
 ## Get Specefied Word
 
-https://api.dictionaryapi.dev/api/v2/entries/en/<word>
+https://api.dictionaryapi.dev/api/v2/entries/en/<WORD>
